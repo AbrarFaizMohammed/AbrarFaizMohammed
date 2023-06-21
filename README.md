@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)
+![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)
 <h1 align="center">Hi 👋, I'm Abrar Faiz Mohammed</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 <img align="right" alt="Full Stack Developer" wigth="200" src="https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif">
