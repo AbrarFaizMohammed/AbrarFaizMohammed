@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **abrarfaizmohammed@gmail.com**
 
-- 📄 Know about my experiences [.Net Developer](.Net Developer)
+- 📄 Know about my experiences as **Software Engineer**(.Net Developer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
