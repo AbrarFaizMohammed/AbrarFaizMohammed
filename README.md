@@ -4,7 +4,7 @@
 <img align="right" alt="Full Stack Developer" wigth="200" src="https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarfaizmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="abrarfaizmohammed" /> </p>
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m  **DotNet Fullstack / MERN Stack developer**
 
 - 📫 How to reach me **abrarfaizmohammed@gmail.com**
 
